@@ -1,0 +1,11 @@
+.main_login{
+    margin-top: 100px;
+    margin-left:20px;
+    padding: 20px;
+}
+.login-button:hover{
+cursor: pointer;
+}
+/* .login-button :disabled{
+    cursor: not-allowed;
+} */

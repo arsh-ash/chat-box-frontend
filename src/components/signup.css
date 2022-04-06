@@ -1,0 +1,14 @@
+.signup_main{
+    /* margin-top: 10%;    */
+    /* border: 2px solid red; */
+    margin-left: 10px;
+    /* padding: 20px; */
+    height: 100%;
+   }
+   .signup-button:hover{
+       cursor: pointer;
+
+   }
+   /* .signup-button:disabled{
+       cursor:not-allowed;
+   } */

@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.messenger-main{
+    /* border:2px solid red; */
+    display: flex;
+
+}
+.box{
+    border:2px solid black;
+    flex:4;
+    /* background-color: aqua; */
+    height: 100vh;
+    
+}
+.chatbox{
+    /* border:2px solid yellow; */
+}

@@ -1,0 +1,105 @@
+
+.text-message-box{
+display: flex;
+}
+ .text-message-box img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+ }
+ .text-message{
+     position: relative;
+ }
+ .text-message p{
+    background: #1877f2;
+    /* background-color: gray; */
+    padding: 10px 5px;
+    border-radius: 20px;
+    max-width: 50%;
+    margin: 0;
+     /* margin-left: 10px;
+     background: #1877f2;
+     padding: 10px 5px;
+     border-radius: 20px;
+     max-width: 50%;
+     margin-top: 0; */
+ }
+ .mera-span{
+     position: absolute;
+     left: 20%;
+     top:40px;
+     /* margin-bottom: 10px; */
+     /* bottom: 0px */
+     /* bottom: %; */
+/* word-spacing: -2px;      */
+ }
+
+ .text-message-own{
+    margin-left: 50%;
+    position: relative;
+    /* display: block; */
+
+ }
+ .uska-span{
+     position: absolute;
+     top:40px;
+     left: 40%;
+ }
+ /* .text-message-own img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 0;
+
+ } */
+ .uskiphoto{
+   
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-bottom: 4px;
+    margin-top: 20px;
+    /* margin-left: 90px; */
+    /* margin-top: 20px; */
+ }
+ .meriphoto{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 0;
+    margin-left: 48%;
+    
+
+
+ }
+ .text-message-own p{
+     margin-left: 10px;
+     /* background: #1877f2; */
+     background-color: gray;
+     padding: 10px 5px;
+     border-radius: 20px;
+     /* max-width: 50%; */
+     margin-top: 0;
+ }
+ .chat-input{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 20px;
+     /* position: fixed; */
+     /* top:100% */
+ }
+
+ .chat-input textarea{
+     width: 75%;
+     border-radius: 10px;
+     outline: 0;
+     /* height: 90px; */
+ }
+ .send-button{
+     background-color: #1877f2;
+     color:white;
+     width: 20%;
+     border-radius: 10px;
+     padding: 5px 10px;
+ }
